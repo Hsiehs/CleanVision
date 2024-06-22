@@ -6,6 +6,8 @@ Professor Clark Olsen
 
 By Stanley Hsieh and Fang Wu
 
+
+
 Computer vision program that distingishes different styles of plates, and if they are clean or dirty.
 
 Implemented plate detection using, Grayscaling, Gaussian blur, Edge Detection, Dilation, and finding Contours.
