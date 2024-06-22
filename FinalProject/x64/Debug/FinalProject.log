@@ -1,0 +1,15 @@
+﻿  PlateDetection.cpp
+C:\Users\Stanley\Desktop\UWB\Fall2023\CSS430\FinalProject\FinalProject\PlateDetection.cpp(80,56): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Stanley\Desktop\UWB\Fall2023\CSS430\FinalProject\FinalProject\PlateDetection.cpp(80,32): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Stanley\Desktop\UWB\Fall2023\CSS430\FinalProject\FinalProject\PlateDetection.cpp(149,63): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Stanley\Desktop\UWB\Fall2023\CSS430\FinalProject\FinalProject\PlateDetection.cpp(149,58): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Stanley\Desktop\UWB\Fall2023\CSS430\FinalProject\FinalProject\PlateDetection.cpp(203,30): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  FinalProject.vcxproj -> C:\Users\Stanley\Desktop\UWB\Fall2023\CSS430\FinalProject\x64\Debug\FinalProject.exe
